@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"Dracula Color Scheme",
+		"Emmet",
+		"ERB Snippets",
+		"FileIcons",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"WakaTime"
+	]
+}
