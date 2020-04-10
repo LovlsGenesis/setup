@@ -57,3 +57,4 @@ zinit light-mode for \
 
 ### End of Zinit's installer chunk
 
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"

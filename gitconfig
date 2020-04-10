@@ -4,7 +4,7 @@
 
 [core]
   pager = less -FRSX
-  editor = vim
+	editor = subl -n -w  >/dev/null 2>&1
   excludesfile = ~/.gitignore_global
 
 [push]
