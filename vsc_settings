@@ -1,0 +1,38 @@
+{
+    // Define VSCode Theme
+    "workbench.colorTheme": "Dracula",
+
+    // Terminal Font Size
+    "terminal.integrated.fontSize":14,
+
+    // Define side bar icons themes
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    // Configure size and font family
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.renderWhitespace": "all",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "erb": "html,"
+    },
+
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "editor.rulers": [80,120]
+}
